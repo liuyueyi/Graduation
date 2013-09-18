@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Access" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Access" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="/usr/lib/libboost_serialization-mt.so" />
+					<Add library="/usr/lib/libcryptopp.so" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Access" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AESKey.cpp" />
+		<Unit filename="AESKey.h" />
+		<Unit filename="AttributeTree.cpp" />
+		<Unit filename="AttributeTree.h" />
+		<Unit filename="Coder.cpp" />
+		<Unit filename="Coder.h" />
+		<Unit filename="Credential.h" />
+		<Unit filename="Metadata.h" />
+		<Unit filename="MyAES.cpp" />
+		<Unit filename="MyAES.h" />
+		<Unit filename="MyCpabe.cpp" />
+		<Unit filename="MyCpabe.h" />
+		<Unit filename="MyHash.cpp" />
+		<Unit filename="MyHash.h" />
+		<Unit filename="MyRSA.cpp" />
+		<Unit filename="MyRSA.h" />
+		<Unit filename="SecByteString.cpp" />
+		<Unit filename="SecByteString.h" />
+		<Unit filename="test.cpp" />
+		<Unit filename="test.h" />
+		<Unit filename="test2.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

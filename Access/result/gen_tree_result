@@ -1,0 +1,55 @@
+4MB---> Generate tree cost is : 19
+4KB---> Generate tree cost is : 16
+8KB---> Generate tree cost is : 15
+16KB---> Generate tree cost is : 13
+32KB---> Generate tree cost is : 19
+64KB---> Generate tree cost is : 22
+128KB---> Generate tree cost is : 29
+256KB---> Generate tree cost is : 42
+512KB---> Generate tree cost is : 63
+
+4MB---> Generate tree cost is : 28
+4KB---> Generate tree cost is : 15
+8KB---> Generate tree cost is : 16
+16KB---> Generate tree cost is : 15
+32KB---> Generate tree cost is : 21
+64KB---> Generate tree cost is : 42
+128KB---> Generate tree cost is : 30
+256KB---> Generate tree cost is : 43
+512KB---> Generate tree cost is : 61
+
+4MB---> Generate tree cost is : 32
+4KB---> Generate tree cost is : 16
+8KB---> Generate tree cost is : 25
+16KB---> Generate tree cost is : 15
+32KB---> Generate tree cost is : 24
+64KB---> Generate tree cost is : 23
+128KB---> Generate tree cost is : 30
+256KB---> Generate tree cost is : 43
+512KB---> Generate tree cost is : 65
+
+4MB---> Generate tree cost is : 30
+4KB---> Generate tree cost is : 14
+8KB---> Generate tree cost is : 16
+16KB---> Generate tree cost is : 14
+32KB---> Generate tree cost is : 22
+64KB---> Generate tree cost is : 24
+128KB---> Generate tree cost is : 29
+256KB---> Generate tree cost is : 43
+512KB---> Generate tree cost is : 72
+
+32KB---> Generate tree cost is : 30
+32KB---> Generate tree cost is : 31
+32KB---> Generate tree cost is : 31
+32KB---> Generate tree cost is : 30
+
+
+4MB---> Generate tree cost is : 17
+4KB---> Generate tree cost is : 13
+8KB---> Generate tree cost is : 15
+16KB---> Generate tree cost is : 16
+32KB---> Generate tree cost is : 23
+64KB---> Generate tree cost is : 22
+128KB---> Generate tree cost is : 29
+256KB---> Generate tree cost is : 42
+512KB---> Generate tree cost is : 62

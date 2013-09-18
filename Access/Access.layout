@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AttributeTree.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="662" topLine="45" />
+	</File>
+	<File name="AttributeTree.h" open="1" top="0" tabpos="2">
+		<Cursor position="1770" topLine="12" />
+	</File>
+	<File name="MyAES.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="MyCpabe.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="8" />
+	</File>
+	<File name="MyHash.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="MyHash.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="7" />
+	</File>
+	<File name="SecByteString.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="631" topLine="8" />
+	</File>
+	<File name="test.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="25345" topLine="62" />
+	</File>
+	<File name="test.h" open="1" top="0" tabpos="4">
+		<Cursor position="110" topLine="6" />
+	</File>
+	<File name="test2.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4581" topLine="69" />
+	</File>
+</CodeBlocks_layout_file>

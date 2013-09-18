@@ -1,0 +1,460 @@
+------------GET 4MB----------------
+  judge cost is : 5085us
+  judge cost is : 17us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 7.2us
+
+------------GET 4KB----------------
+  judge cost is : 77us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 4.8us
+
+------------GET 8KB----------------
+  judge cost is : 52us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 5us
+
+Average cost is : 4.8us
+
+------------GET 16KB----------------
+  judge cost is : 47us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 2us
+  judge cost is : 3us
+  judge cost is : 2us
+
+Average cost is : 2.6us
+
+------------GET 32KB----------------
+  judge cost is : 58us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+------------GET 64KB----------------
+  judge cost is : 58us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+
+Average cost is : 3us
+
+------------GET 128KB----------------
+  judge cost is : 65us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 3us
+
+Average cost is : 3.4us
+
+------------GET 256KB----------------
+  judge cost is : 79us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 5us
+
+Average cost is : 4.6us
+
+------------GET 512KB----------------
+  judge cost is : 104us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+=========The Next record!============
+
+------------GET 4MB----------------
+  judge cost is : 235us
+  judge cost is : 14us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.8us
+
+------------GET 4KB----------------
+  judge cost is : 79us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5us
+
+------------GET 8KB----------------
+  judge cost is : 67us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+------------GET 16KB----------------
+  judge cost is : 68us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+
+Average cost is : 3.2us
+
+------------GET 32KB----------------
+  judge cost is : 76us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+------------GET 64KB----------------
+  judge cost is : 97us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 3us
+
+Average cost is : 3.4us
+
+------------GET 128KB----------------
+  judge cost is : 80us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 3us
+
+Average cost is : 3.6us
+
+------------GET 256KB----------------
+  judge cost is : 98us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 4us
+
+Average cost is : 4.8us
+
+------------GET 512KB----------------
+  judge cost is : 118us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 7us
+  judge cost is : 6us
+
+Average cost is : 6.4us
+
+=========The Next record!============
+
+------------GET 4MB----------------
+  judge cost is : 269us
+  judge cost is : 16us
+  judge cost is : 7us
+  judge cost is : 8us
+  judge cost is : 7us
+  judge cost is : 7us
+
+Average cost is : 9us
+
+------------GET 4KB----------------
+  judge cost is : 100us
+  judge cost is : 8us
+  judge cost is : 7us
+  judge cost is : 7us
+  judge cost is : 7us
+  judge cost is : 7us
+
+Average cost is : 7.2us
+
+------------GET 8KB----------------
+  judge cost is : 100us
+  judge cost is : 8us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.2us
+
+------------GET 16KB----------------
+  judge cost is : 73us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+
+Average cost is : 3us
+
+------------GET 32KB----------------
+  judge cost is : 83us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6.4us
+
+------------GET 64KB----------------
+  judge cost is : 78us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 3us
+
+Average cost is : 3.6us
+
+------------GET 128KB----------------
+  judge cost is : 84us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 4us
+
+Average cost is : 4us
+
+------------GET 256KB----------------
+  judge cost is : 99us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5us
+
+------------GET 512KB----------------
+  judge cost is : 124us
+  judge cost is : 8us
+  judge cost is : 7us
+  judge cost is : 7us
+  judge cost is : 7us
+  judge cost is : 6us
+
+Average cost is : 7us
+
+=========The Next record!============
+
+------------GET 4MB----------------
+  judge cost is : 1253us
+  judge cost is : 14us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 7.2us
+
+------------GET 4KB----------------
+  judge cost is : 76us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+------------GET 8KB----------------
+  judge cost is : 68us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+------------GET 16KB----------------
+  judge cost is : 64us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 3us
+
+Average cost is : 3us
+
+------------GET 32KB----------------
+  judge cost is : 77us
+  judge cost is : 7us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6.4us
+
+------------GET 64KB----------------
+  judge cost is : 79us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 4us
+
+Average cost is : 3.6us
+
+------------GET 128KB----------------
+  judge cost is : 79us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 4us
+
+Average cost is : 4.2us
+
+------------GET 256KB----------------
+  judge cost is : 96us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 14us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 7us
+
+------------GET 512KB----------------
+  judge cost is : 188us
+  judge cost is : 8us
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 7us
+
+Average cost is : 6.8us
+
+=========The Next record!============
+
+------------GET 4MB----------------
+  judge cost is : 143us
+  judge cost is : 11us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.2us
+
+------------GET 4KB----------------
+  judge cost is : 67us
+  judge cost is : 5us
+  judge cost is : 16us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 7.2us
+
+------------GET 8KB----------------
+  judge cost is : 68us
+  judge cost is : 5us
+  judge cost is : 15us
+  judge cost is : 4us
+  judge cost is : 5us
+  judge cost is : 4us
+
+Average cost is : 6.6us
+
+------------GET 16KB----------------
+  judge cost is : 75us
+  judge cost is : 3us
+  judge cost is : 2us
+  judge cost is : 3us
+  judge cost is : 2us
+  judge cost is : 3us
+
+Average cost is : 2.6us
+
+------------GET 32KB----------------
+  judge cost is : 64us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+------------GET 64KB----------------
+  judge cost is : 65us
+  judge cost is : 3us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 3us
+
+Average cost is : 3.2us
+
+------------GET 128KB----------------
+  judge cost is : 65us
+  judge cost is : 4us
+  judge cost is : 3us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 3us
+
+Average cost is : 3.6us
+
+------------GET 256KB----------------
+  judge cost is : 81us
+  judge cost is : 5us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 4us
+  judge cost is : 4us
+
+Average cost is : 4.2us
+
+------------GET 512KB----------------
+  judge cost is : 107us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+=========The Next record!============
+

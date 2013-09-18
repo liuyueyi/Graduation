@@ -1,0 +1,648 @@
+--------------11 : GET 32KB----------------
+  judge cost is : 200us
+  judge cost is : 11us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.2us
+
+--------------12 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------13 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+--------------14 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.4us
+
+--------------15 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------16 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+--------------17 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------18 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------19 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------20 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------21 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------22 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------23 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------24 : GET 32KB----------------
+  judge cost is : 12us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------25 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------26 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 17us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 8.2us
+
+=========The Next record!============
+
+--------------11 : GET 32KB----------------
+  judge cost is : 193us
+  judge cost is : 12us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.4us
+
+--------------12 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------13 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------14 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.4us
+
+--------------15 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 11us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 6.8us
+
+--------------16 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------17 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------18 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------19 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------20 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------21 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------22 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------23 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------24 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------25 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------26 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 9us
+  judge cost is : 6us
+
+Average cost is : 6.6us
+
+=========The Next record!============
+
+--------------11 : GET 32KB----------------
+  judge cost is : 187us
+  judge cost is : 12us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.8us
+
+--------------12 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------13 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------14 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.4us
+
+--------------15 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------16 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------17 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------18 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------19 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------20 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------21 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------22 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 6us
+
+--------------23 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.8us
+
+--------------24 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------25 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------26 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+=========The Next record!============
+
+--------------11 : GET 32KB----------------
+  judge cost is : 173us
+  judge cost is : 10us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 6.2us
+
+--------------12 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------13 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------14 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.2us
+
+--------------15 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------16 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.4us
+
+--------------17 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5.4us
+
+--------------18 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+  judge cost is : 5us
+
+Average cost is : 5us
+
+--------------19 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------20 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.6us
+
+--------------21 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------22 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------23 : GET 32KB----------------
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------24 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.6us
+
+--------------25 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+  judge cost is : 6us
+
+Average cost is : 5.8us
+
+--------------26 : GET 32KB----------------
+  judge cost is : 7us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 6us
+  judge cost is : 5us
+
+Average cost is : 5.8us
+
+=========The Next record!============
+
